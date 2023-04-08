@@ -33,7 +33,7 @@ Users should be able to:
 ![](./ScreenShot3.png)
 ### Links
 
-- Solution URL: [github.com/Jyotisaini-2001/Comment-Section](https://your-solution-url.com)
+- Solution URL: [https://github.com/Jyotisaini-2001/Comment-Section](Solution-url)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ### Built with
