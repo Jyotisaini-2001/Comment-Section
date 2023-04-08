@@ -29,7 +29,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Jyotisaini-2001/Comment-Section](Solution-URL)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://comment-section-project.netlify.app/](Live-Preview)
 
 ### Built with
 
