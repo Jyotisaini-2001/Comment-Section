@@ -26,10 +26,6 @@ Users should be able to:
 - **Bonus**: If you're building a purely front-end project, use `localStorage` to save the current state in the browser that persists when the browser is refreshed.
 - **Bonus**: Instead of using the `createdAt` strings from the `data.json` file, try using timestamps and dynamically track the time since the comment or reply was posted.
 
-### Screenshot
-
-![](./ScreenSot2.png)
-![](./ScreenShot3.png)
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
